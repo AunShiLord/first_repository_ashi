@@ -14,6 +14,7 @@
 		E138C72B1A6A529100FC8934 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E138C72A1A6A529100FC8934 /* Images.xcassets */; };
 		E138C72E1A6A529200FC8934 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E138C72C1A6A529200FC8934 /* LaunchScreen.xib */; };
 		E138C73A1A6A529200FC8934 /* first_repository_ashiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E138C7391A6A529200FC8934 /* first_repository_ashiTests.m */; };
+		E197D4421AA854E80098E387 /* File.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E197D4411AA854E80098E387 /* File.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		E138C7331A6A529200FC8934 /* first_repository_ashiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = first_repository_ashiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E138C7381A6A529200FC8934 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E138C7391A6A529200FC8934 /* first_repository_ashiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = first_repository_ashiTests.m; sourceTree = "<group>"; };
+		E197D4411AA854E80098E387 /* File.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = File.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		E138C7111A6A529000FC8934 = {
 			isa = PBXGroup;
 			children = (
+				E197D4411AA854E80098E387 /* File.rtf */,
 				E138C71C1A6A529100FC8934 /* first_repository_ashi */,
 				E138C7361A6A529200FC8934 /* first_repository_ashiTests */,
 				E138C71B1A6A529100FC8934 /* Products */,
@@ -201,6 +204,7 @@
 			files = (
 				E138C7291A6A529100FC8934 /* Main.storyboard in Resources */,
 				E138C72E1A6A529200FC8934 /* LaunchScreen.xib in Resources */,
+				E197D4421AA854E80098E387 /* File.rtf in Resources */,
 				E138C72B1A6A529100FC8934 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +416,7 @@
 				E138C73F1A6A529200FC8934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E138C7401A6A529200FC8934 /* Build configuration list for PBXNativeTarget "first_repository_ashiTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +425,7 @@
 				E138C7421A6A529200FC8934 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
